@@ -42,7 +42,8 @@
 
 
 ## Heat Treatment of 3D printed part
-![Uploading image.png…]()
+<img width="1917" height="906" alt="image" src="https://github.com/user-attachments/assets/a8dc833f-15bb-4440-90bc-8f6a18e13388" />
+
 
 
 
